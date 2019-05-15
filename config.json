@@ -1,0 +1,11 @@
+{
+	"ACTIONS_CLIENT_ID": ".apps.googleusercontent.com",
+	"SERVICE_URL": "https://ditlm.service-now.com/api/now/v2/table",
+	"DEFAULT_IMAGE_URL": "http://www.protectaweb.it/wp-content/uploads/2015/06/leroy-merlin.jpg",
+	"SERVICE_USERNAME": "webservice.user",
+	"SERVICE_PASSWORD": "LeroyMerlin!",
+	"SSG_GROUP_NAME": "SSG - SD1",
+	"SCO_MANUFACTURER_NAME": "NCR",
+	"EXTERNAL_USER_STERIA_SUFFIX": "ext",
+	"SOPRA_STERIA_USER_SUFFIX": "soprasteria"
+}
