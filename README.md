@@ -1,2 +1,2 @@
 # Google-Assistant-Example
-Google Assistant example for base project structure
+Google Assistant with Dialogflow and Cloud Functions example for base project structure
