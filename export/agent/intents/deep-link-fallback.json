@@ -1,0 +1,30 @@
+{
+  "id": "65bd467c-b248-409c-8947-b45a019100d9",
+  "name": "deep-link-fallback",
+  "auto": true,
+  "contexts": [
+    "google_assistant_welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541667654,
+  "fallbackIntent": false,
+  "events": []
+}

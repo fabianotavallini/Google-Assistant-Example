@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f98ee4bc-bc66-483e-bfaf-f15e7facdac0",
+    "data": [
+      {
+        "text": "Ci vediamo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541667858
+  },
+  {
+    "id": "2388ec3b-baad-4b3d-97cb-19073b7930ff",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541667858
+  },
+  {
+    "id": "8cded843-d2d9-49e4-b6ef-8878c38d0b32",
+    "data": [
+      {
+        "text": "Ti saluto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541667858
+  },
+  {
+    "id": "c52b8e11-3084-4612-bb99-6c36dc17eeec",
+    "data": [
+      {
+        "text": "Esci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541667858
+  },
+  {
+    "id": "20eda1d6-3ce9-4736-b7a6-ce19a7dd830e",
+    "data": [
+      {
+        "text": "Cancella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541667858
+  },
+  {
+    "id": "0c5477dc-83e2-4b74-a8f6-bf5291b8ac48",
+    "data": [
+      {
+        "text": "Esci da SopraMarket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544431436
+  }
+]

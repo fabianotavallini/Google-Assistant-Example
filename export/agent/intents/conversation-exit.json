@@ -1,0 +1,28 @@
+{
+  "id": "d5d92721-6eeb-4cf5-9462-038afff6a2dd",
+  "name": "conversation-exit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544431513,
+  "fallbackIntent": false,
+  "events": []
+}
