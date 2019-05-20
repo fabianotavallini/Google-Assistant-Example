@@ -21,5 +21,8 @@
 	"SUGGESTION_ASK_01": "Vuoi cercare un prodotto?",
 	"SUGGESTION_ASK_02": "Cosa vuoi fare?",
 	"SUGGESTION_ASK_03": "Cosa vuoi chiedermi?",
-	"PROMPT_SUGGESTION_CHIP": "Cerca un prodotto"
+	"PROMPT_SUGGESTION_CHIP": "Cerca un prodotto",
+	"SHOW_RESULT_ERROR_01": "Mi dispiace, in questo momento non trovo alcun risultato, riprova più tardi.",
+	"SHOW_RESULT_ERROR_02": "Ora non riesco a trovare alcun risultato, puoi riprovare più tardi.",
+	"SHOW_RESULT_ERROR_03": "Mi dispiace, non posso darti un risultato ora, riprova più tardi.",
 }
